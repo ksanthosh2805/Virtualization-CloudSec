@@ -1,4 +1,4 @@
-# Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
+# Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 ### NAME: Santhosh K
 ### REG NO:212223100050
 
@@ -86,7 +86,6 @@ To install and configure Kali Linux in Oracle VirtualBox.
     * Devices → Insert Guest Additions CD Image → Follow steps inside Kali.
 
 ## Snapshots:
-AWS Account Creation Snapshot
 
 Snapshot 1: Installing Oracle VirtualBox
 ![image](https://github.com/user-attachments/assets/737dafde-fd5d-4266-849a-a12013ce9c5b)
